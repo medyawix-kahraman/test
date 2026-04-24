@@ -783,3 +783,12 @@ box-shadow:0 25px 60px rgba(0,0,0,.35) !important;
 .hero-video .container{
 background:transparent !important;
 }
+.hero-content{
+position:relative;
+z-index:2;
+max-width:900px;
+padding:60px;
+background:rgba(0,0,0,.28);
+backdrop-filter:blur(10px);
+border-radius:18px;
+}

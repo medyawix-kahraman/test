@@ -812,3 +812,12 @@ letter-spacing:.3px;
 font-family:'Manrope',sans-serif !important;
 font-weight:700;
 }
+.footer-premium .text-center a{
+color:#D4AF37;
+font-weight:700;
+text-decoration:none;
+}
+
+.footer-premium .text-center a:hover{
+color:#fff;
+}

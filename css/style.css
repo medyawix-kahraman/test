@@ -731,6 +731,13 @@ background:linear-gradient(to right, rgba(0,0,0,.82), rgba(0,0,0,.45));
 position:relative;
 z-index:2;
 color:#fff;
+max-width:900px;
+padding:60px;
+background:rgba(0,0,0,.38);
+backdrop-filter:blur(10px);
+border:1px solid rgba(255,255,255,.08);
+border-radius:18px;
+box-shadow:0 25px 60px rgba(0,0,0,.35);
 }
 
 .hero-content h1{

@@ -792,3 +792,23 @@ background:rgba(0,0,0,.28);
 backdrop-filter:blur(10px);
 border-radius:18px;
 }
+body{
+font-family:'Manrope',sans-serif !important;
+}
+
+h1,h2,h3,h4,h5,h6{
+font-family:'Manrope',sans-serif !important;
+letter-spacing:-1px;
+font-weight:700;
+}
+
+.navbar-light .navbar-nav .nav-link{
+font-family:'Manrope',sans-serif !important;
+font-weight:600;
+letter-spacing:.3px;
+}
+
+.btn{
+font-family:'Manrope',sans-serif !important;
+font-weight:700;
+}

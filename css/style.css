@@ -568,3 +568,59 @@ color:#f5c542 !important;
 .navbar-dark .navbar-brand span{
 color:#ffffff !important;
 }
+body{
+background:#0a0a0a;
+color:#ffffff;
+}
+
+.container,
+.container-fluid,
+.bg-white,
+.bg-light{
+background:#111111 !important;
+color:#ffffff !important;
+}
+
+.navbar{
+background:#000000 !important;
+box-shadow:0 10px 30px rgba(0,0,0,.45);
+}
+
+.navbar .nav-link{
+color:#ffffff !important;
+font-weight:600;
+letter-spacing:.5px;
+}
+
+.navbar .nav-link:hover{
+color:#D4AF37 !important;
+}
+
+.btn-primary,
+.btn-warning{
+background:#D4AF37 !important;
+border:none !important;
+color:#000 !important;
+font-weight:700;
+}
+
+.section-title{
+color:#D4AF37 !important;
+}
+
+h1,h2,h3,h4,h5,p,span{
+color:#ffffff !important;
+}
+
+.owl-carousel-item:before{
+content:"";
+position:absolute;
+inset:0;
+background:rgba(0,0,0,.55);
+z-index:1;
+}
+
+.owl-carousel-inner{
+position:relative;
+z-index:2;
+}

@@ -767,3 +767,19 @@ background:#D4AF37!important;
 border:none;
 color:#000!important;
 }
+.hero-video .hero-content{
+position:relative !important;
+z-index:2 !important;
+color:#fff !important;
+max-width:900px !important;
+padding:60px !important;
+background:rgba(0,0,0,.25) !important;
+backdrop-filter:blur(12px) !important;
+border:1px solid rgba(255,255,255,.08) !important;
+border-radius:20px !important;
+box-shadow:0 25px 60px rgba(0,0,0,.35) !important;
+}
+
+.hero-video .container{
+background:transparent !important;
+}
